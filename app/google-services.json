@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "18108889914",
+    "firebase_url": "https://practicafinal-1ff1d.firebaseio.com",
+    "project_id": "practicafinal-1ff1d",
+    "storage_bucket": "practicafinal-1ff1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18108889914:android:49799805c059ef2f",
+        "android_client_info": {
+          "package_name": "com.example.arianpc.practicafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18108889914-f3hb4rnl8vfd761u61srmq5fq4lv5kdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arianpc.practicafinal",
+            "certificate_hash": "0dd774e99868f04e46e8909fb67aef16c18573e6"
+          }
+        },
+        {
+          "client_id": "18108889914-nfb9v7q52ot6e0s3t5c6sene365pvj58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQhzt-H9R04JPZns3VcTjtB7afiT3knEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18108889914-nfb9v7q52ot6e0s3t5c6sene365pvj58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
